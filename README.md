@@ -10,10 +10,16 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 ## Werkwijze
 Ik heb wekelijks iets in mijn wiki geschreven over de Weekly Nerd en de extra artikelen. 
 
-Bekijk hier de Weekly Nerds:
+Dit zijn de Weekly Nerds:
+* Hidde de Vries over het web
+* Sanne 't Hooft over ontwerpen met CSS
+* Workshop bij Funda
 
+Dit zijn de extra artikelen: 
+* Client side vs Server side rendering
+* SASS Crash Course
+* Back to basic: Data management
 
-Bekijk hier de extra artikelen: 
-
+Bekijk hier mijn wiki
 
 
