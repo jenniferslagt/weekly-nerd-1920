@@ -20,6 +20,6 @@ Dit zijn de extra artikelen:
 * SASS Crash Course
 * Back to basic: Data management
 
-Bekijk hier mijn wiki
+Bekijk [hier](https://github.com/jenniferslagt/weekly-nerd-1920/issues) mijn wiki
 
 
